@@ -40,6 +40,9 @@ A working prototype of the chatbot was demonstrated, showcasing the successful i
 - **Middleware and APIs**: OpenAI's GPT-4 model, Langchain, Beautiful Soup, and Pinecone
 - **Backend Development**: Python, Flask framework, and RESTful API endpoints
 
+     ![image](https://github.com/AnanyaKakani/AI-Enhanced-Supplier-Diversity-GenAI-Chatbot/assets/57082489/4bfe575d-43fd-44f6-946b-fd550170153f)
+
+
 ## Documentation and Tools
 - **Figma**: [Design Prototypes](https://www.figma.com/file/2lCZLs01AoJY75i5v6tR6D/NL4IE-Chatbot-XN-Project)
 - **Hosting**: [Diversity Supplier Chatbot](https://diversitysupplychatbot.great-site.net/)
